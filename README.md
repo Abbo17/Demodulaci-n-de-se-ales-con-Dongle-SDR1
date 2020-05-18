@@ -10,8 +10,12 @@ En una segunda instancia se utilizará este dongle y una librería también prov
 
 
 
-### Objetivo Bonus 📋
+### Objetivo Bonus
 
 Como bonus extra se pidió intentar realizar la demodulación de la estación comercial de FM en tiempo real con algún tipo de interfaz que permita tanto variar la estación seleccionada, como el volumen de la misma u otro parámetros. 
 Para realizar dicho trabajo hice uso de GNURadio el cual es un kit de herramientas de desarrollo de software gratuito y de código abierto que proporciona bloques de procesamiento de señales para implementar radios de software. 
+
+### Informe del Proyecto
+
+Para mas información acerca de este Proyecto puede acceder al Informe donde se detalla el mismo: [Informe Final.](https://github.com/Abbo17/Demodulaci-n-de-se-ales-con-Dongle-SDR1/blob/master/Informe%20Final.pdf) 
 
